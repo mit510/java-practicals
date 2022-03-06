@@ -1,5 +1,5 @@
 package com.mit;
-
+//it's  a string buffer file
 public class stringbuffer {
     public static void main(String[] args) {
     append();
